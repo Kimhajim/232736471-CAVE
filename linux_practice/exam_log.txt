@@ -1,0 +1,47 @@
+commit 6184e26c49066cc9240ce2beaa5870df364e64ed
+Author: Kimhajim <lordreaper401@gmail.com>
+Date:   Thu Aug 8 16:04:06 2024 +0800
+
+    final exam
+
+commit e170fa8c9bd805fa5432a1f0a0839e1cac5aa697
+Author: Your Name <lordreaper401@gmail.com>
+Date:   Thu Aug 8 08:23:37 2024 +0800
+
+    java Calculator has been added
+
+commit 59e889ab76c1bb205a05c64c057e42e0bb233e07
+Author: Your Name <lordreaper401@gmail.com>
+Date:   Wed Aug 7 22:35:28 2024 +0800
+
+    why just nonsense
+
+commit 5e6a3da035f45acad5480df9dea78ce86d49e38d
+Author: Kimhajim <lordreaper401@gmail.com>
+Date:   Fri Aug 2 15:12:34 2024 +0800
+
+    a printable HelloWorld program in java
+
+commit 3faa1ffadff9b6104845ff880dc8d7a7288a091c
+Author: KimHajim <lordreaper401@gmail.com>
+Date:   Sat Jul 20 19:44:42 2024 +0800
+
+    batch file commands
+
+commit 328765e1d1466284e99d29a4abc4e186c4f4b5f2
+Author: KimHajim <lordreaper401@gmail.com>
+Date:   Sat Jul 20 19:34:28 2024 +0800
+
+    new content file
+
+commit 8fab2c85ef115928704970ea6c2cf974e543e99b
+Author: KimHajim <lordreaper401@gmail.com>
+Date:   Sat Jul 20 19:07:23 2024 +0800
+
+    Update HI3rd.html with new content picture
+
+commit 9474e02fcf8f4e0972d70c2e930d72b47389f7e6
+Author: KimHajim <lordreaper401@gmail.com>
+Date:   Sat Jul 20 18:59:01 2024 +0800
+
+    HI3rd.html
