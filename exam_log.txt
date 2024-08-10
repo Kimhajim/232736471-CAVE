@@ -1,0 +1,500 @@
+   32  no
+   33  pkg install -y curl
+   34  bash <(curl -s https://raw.githubusercontent.com/Aj-Seven/Android-Sysinfo/master/sys-install)
+   35  sysinfo
+   36  pkg install Cmatrix
+   37  sudo install apt Cmatrix
+   38  pkg install Cmatrix
+   39  $ apt-get install cmatrix
+   40  $ cmatrix
+   41  apt-get instwll cmatrix
+   42  pgk install cmatrix
+   43  pkg install cmatrix
+   44  run cmatrix
+   45  cmatrix
+   46  apt-get install distro
+   47  apt install -y root
+   48  apt-get install distro
+   49  pkg install proot-distro
+   50  pkg install ubuntu
+   51  pkg install git
+   52  git clone https://github.com/termux/proot-distro
+   53  cd proot-distro
+   54  ./install.sh
+   55  pkg update
+   56  install ubuntu
+   57  pgk install ubuntu
+   58  pip3 install ubuntu-termux
+   59  clewr
+   60  clear
+   61  git clone https://github.com/termux/proot-distro
+   62  clear
+   63  system info
+   64  sysinfo
+   65  apt-install neofetch
+   66  sudo install neofetch
+   67  y
+   68  apt install neofetch
+   69  neofetch
+   70  end
+   71  exit
+   72  pkg python
+   73  pkg install python
+   74  pythob
+   75  python
+   76  cd proot-distro
+   77  python
+   78  cd python
+   79  web
+   80  search
+   81  search linux
+   82  search python
+   83  pycharm
+   84  push
+   85  rpush
+   86  pull
+   87  git add
+   88  exit
+   89  git ads
+   90  cd proot-distro
+   91  Cmatrix
+   92  cmatrix
+   93  tracert
+   94  ipconfig
+   95  apt-get net tools
+   96  apt install net tools
+   97  apt-install net tools
+   98  acr-install
+   99  sewrch net tools
+  100  ipconfig
+  101  pkg install net-tools
+  102  ipconfig
+  103  pkg install net-tools
+  104  net-tools
+  105  e2tools
+  106  ipconfif
+  107  ipconfig
+  108  cd net-tools
+  109  sudo update
+  110  sudo upgrade
+  111  update
+  112  apt update
+  113  apt upgrade
+  114  turn on
+  115  nusic
+  116  music
+  117  cls
+  118  clear
+  119  cmatrix
+  120  echo 31
+  121  zip
+  122  pkg zip
+  123  pkg install zip
+  124  exit
+  125  ls
+  126  cd proot-distro
+  127  cmatrix
+  128  wsl -e touch
+  129  proot-distro
+  130  cd proot distro
+  131  cd proot-distro
+  132  usb development
+  133  ls
+  134  cd ..
+  135  usb development
+  136  apt update
+  137  apt install python
+  138  open python
+  139  scopen python
+  140  python
+  141  pyyhon
+  142  python
+  143  open
+  144  cd
+  145  cd..
+  146  cd Download
+  147  pwd
+  148  cd
+  149  cd..
+  150  python
+  151  repo
+  152  apt install git
+  153  git repository
+  154  git init
+  155  git remote https://github.com/Kimhajim/232736471-CA
+  156  git remote https://github.com/Kimhajim/232736471-CAVE
+  157  git add branch https://github.com/Kimhajim/232736471-CAVE
+  158  git init
+  159  .code
+  160  python
+  161  git add
+  162  git add .
+  163  git push
+  164  git remote add https://github.com/Kimhajim/232736471-CAVE
+  165  git pull
+  166  git remote https://github.com/Kimhajim/232736471-CAVE
+  167  git remote add -t
+  168  end
+  169  chrome
+  170  open chrome
+  171  ramstar
+  172  ramstat
+  173  rstat
+  174  rtstat
+  175  apt install rstat
+  176  apt rstat
+  177  apt instal rtstat
+  178  apt install rtstat
+  179  sude get rtstat
+  180  get rtstat
+  181  clear
+  182  cd proot distro
+  183  neofetch
+  184  systrm info
+  185  system info
+  186  bastet
+  187  apt install bastet
+  188  bastet
+  189  jre
+  190  apache
+  191  clear
+  192  default apache
+  193  clear
+  194  md
+  195  folder
+  196  pkg install mailutils
+  197  apache
+  198  my sqlserver default-jre
+  199  defaul jre
+  200  default-jre
+  201  java
+  202  pkg install openjdk
+  203  kill 3543
+  204  install pkg apachew
+  205  pkg install apache2
+  206  proot-distro
+  207  cd proot-distro
+  208  pwd
+  209  clone /data/data/com.termux/files/home/proot-distro
+  210  git clone
+  211  git clone https://github.com/Kimhajim/232736471-CAVE/
+  212  ls
+  213  cd repository
+  214  cd https://github.com/Kimhajim/232736471-CAVE
+  215  dir
+  216  cd 232736471-CAVE
+  217  ipconfig
+  218  who am i
+  219  whoami
+  220  ifconfig
+  221  ssh username@ipaddress -p u0_a372
+  222  ssh
+  223  ssh ROG-5@192.168.1.1
+  224  apt update
+  225  ssh POCOF5@192.0.0.2
+  226  ssh POCOF5@ 216.247.90.45
+  227  clear
+  228  ls
+  229  ifconfig
+  230  ping 192.0.0.2
+  231  cleae
+  232  git add
+  233  md 
+  234  cleae
+  235  ls
+  236  git status
+  237  git remote -v
+  238  java
+  239  pkg install openjdk
+  240  java
+  241  java demow
+  242  java demo
+  243  ls
+  244  cd
+  245  java
+  246  clear
+  247  cd
+  248  dir
+  249  git clone https://github.com/Kimhajim/232736471-CAVE
+  250  ls
+  251  232736471-CAVE
+  252  CS 232736471-CAVE
+  253  CD 232736471-CAVE
+  254  CLEAR
+  255  clear
+  256  ls
+  257  cd 232736471-CAVE 
+  258  touch
+  259  touch java
+  260  java
+  261  java demo2
+  262  touch java apache2
+  263  nano HelloWorld.java
+  264  java HelloWorld.java
+  265  nano HelloWorld.java
+  266  nano HelloWorld.java        # Create and edit the Java source file
+  267  javac HelloWorld.java       # Compile the Java source file
+  268  java HelloWorld             # Run the compiled Java program
+  269  javac HelloWorld.java
+  270  public class HelloWorld {
+  271  }
+  272  java HelloWorld
+  273  ls
+  274  HelloWorld.jad
+  275  java Helloworld.jd
+  276  java HelloWorle.jad
+  277  java HelloWorld.jad
+  278  nano java
+  279  ps
+  280  la
+  281  ls
+  282  Hello.java
+  283  java hello
+  284  java Hello
+  285  javac Hello.java7
+  286  java Hello.java
+  287  java7
+  288  nano java
+  289  nano HelloWorld.java
+  290  javac HelloWorld.java
+  291  java HelloWorld
+  292  ls
+  293  Java Hello
+  294  java HelloWorld
+  295  CD ..
+  296  CD
+  297  cd..
+  298  cd ..
+  299  git clone https://github.com/biniYondee/232391276_DALOG
+  300  ls
+  301  delete 232391276
+  302  rm 232391276
+  303  rm 232391276_DALOG
+  304  rm sir
+  305  rm dir
+  306  cd 232736471-CAVE
+  307  PUSH
+  308  GIT PUSH
+  309  git push
+  310  git pull
+  311  git push
+  312  -git push
+  313  git push
+  314  ls
+  315  git push
+  316  gh
+  317  pkg install gh
+  318  git push
+  319  gh auth login
+  320  gh auth
+  321  gh auth login
+  322  git push
+  323  git status
+  324  git pull
+  325  git push
+  326  git add HelloWorld.java
+  327  git push
+  328  git inir
+  329  git init
+  330  git push
+  331  git commit branch
+  332  git pull
+  333  git push
+  334  git commit
+  335  git config --lordreaper401@gmail.con
+  336  git config lordreaper401@gmail.con
+  337  git config lordreaper@gmail.com
+  338  git config lordreaper402@gmail.com
+  339  git commit
+  340  git confif --global Kimhajim.lordreaper401@gmail.com
+  341  git config --global Kimhajim
+  342  git commit
+  343  git remove -v
+  344  git remote
+  345  git remote origin
+  346  clear
+  347  git remotr
+  348  git remote
+  349  clear
+  350  git status
+  351  git commit HelloWorld
+  352  clwae
+  353  clear
+  354  git commit -m
+  355  git add HelloWolrd.java
+  356  ls
+  357  git add .
+  358  git push
+  359  git starua
+  360  git status
+  361  git commit -m Java hellowolrd print program sample
+  362  git status
+  363  git pull
+  364  git push
+  365  git add .
+  366  git pull
+  367  git push
+  368  git commit -m "updated with java helloworld program sample"
+  369  |git config --global user.email "your-email@example.com"
+  370  git config --global user.name "Your Name"
+  371  Kimhajim.lordreaper402@gmail.com
+  372  ls
+  373  system
+  374  info
+  375  bastet
+  376  apt update && upgrade -y
+  377  pkg install git -y
+  378  [200~git clone https://github.com/Cabbagec/termux-ohmyzsh
+  379  ~
+  380  menu
+  381  Menu
+  382  git clone
+  383  cd prootdistro
+  384  cd proot-distro
+  385  git clone
+  386  git init
+  387  ls 
+  388  cd 232736471-CAVE
+  389  LS
+  390  ls
+  391  git clone
+  392  git init
+  393  git add .
+  394  git pull
+  395  git push
+  396  git commit -m "just added new java"
+  397  git config --global user.email lordreaper401@gmail.com
+  398  git commit -m "hello-world"
+  399  java helloworld
+  400  java HelloWorld
+  401  nano java
+  402  ls
+  403  why javac
+  404  why.java javac
+  405  javac
+  406  ls
+  407  git add .
+  408  git pull
+  409  git push
+  410  git commit -m "why just nonsense"
+  411  git push
+  412  ls
+  413  rm 232391276_DALOG
+  414  rmdir 232391276_DALOG
+  415  rmdir rf 232391276_DALOF
+  416  whoami
+  417  ssh
+  418  dor
+  419  dir
+  420  ls
+  421  pwd
+  422  rm -rf /data/data/com.termux/files/home/232391276_DALOG
+  423  ls
+  424  pkg install ssh
+  425  get https://termux.net 
+  426  get ssh
+  427  apt get sssh
+  428  apt get ssh
+  429  ssh
+  430  cls
+  431  clear
+  432  pkg update
+  433  pkg install openssh
+  434  sshd
+  435  ps aux | grep sshd
+  436  ifconfig
+  437  ssh hua@192.168.68.151
+  438  sudo systemctl status ssh
+  439  ssh hua@192.168.68.151
+  440  whoami
+  441  ifconfig
+  442  ps
+  443  ls
+  444  cd 232736471-CAVE
+  445  ls
+  446  cd linux_practice
+  447  git push
+  448  gh auth login
+  449  git pull
+  450  git push
+  451  git log
+  452  git commit -m "final exam"
+  453  git add .
+  454  ls
+  455  cd 232736471-CAVE
+  456  ps
+  457  ls
+  458  git commit -m
+  459  git commit -m "final exam"
+  460  cd linux_practice
+  461  git commit -m "final exam"
+  462  git add .
+  463  git commit -m "final exam"
+  464  git push
+  465  git new branch
+  466  git brancj
+  467  git branch
+  468  git checkout main
+  469  git push origin new-branch-finalexam
+  470  git checkout main
+  471  git pull origin main
+  472  git branch new-branch-name
+  473  ls
+  474  git branch new-branch-finalexam
+  475  git branch
+  476  git branch finalexam
+  477  git branch
+  478  git remote branch finalexam
+  479  git -d new-branch-name
+  480  git branch -d new-branch-finalexam
+  481  git branch -d new-branch-name
+  482  git branch -r
+  483  git fetch
+  484  git puch origin finalexam
+  485  git push origin finalexam
+  486  git add .
+  487  git commit -m "added notes.txt with Linux command practices"
+  488  git pull
+  489  git push
+  490  rm mkdir linux_practice 
+  491  pwd
+  492  rm mkdir linus_practice /data/data/com.termux/files/home/232736471-CAVE/linux_practice
+  493  rm linus_practice /data/data/com.termux/files/home/232736471-CAVE/linux_practice
+  494  rmdir linux_practice 
+  495  rm -r linux_practice
+  496  rmdir linux_practice /data/data/com.termux/files/home/232736471-CAVE/linux_practice
+  497  rm -rf linux_practice
+  498  ls
+  499  git log > exam_log.txt
+  500  git log >> existing-exam_log.txt
+  501  git log --pretty=format:"%h - %s" > short-exam_log.txt
+  502  git log --pretty=format:"%h %an %ad %s" --date=short > detailed-exam_log.txt
+  503  git log
+  504  git push
+  505  git pull
+  506  git push
+  507  gh auth login
+  508  git commit -m "added notes.txt with Linux command practices"
+  509  git add.
+  510  git add .
+  511  git commit -m "added notes.txt with Linux command practices"
+  512  git push
+  513  git push origin finalexam
+  514  git pull
+  515  git push origin finalexam
+  516  git add exam_log.txt
+  517  git history > exam_log.txt
+  518  history > examlog.txt
+  519  git add exam_log.txt
+  520  git commit -m "added exam_log.txt with command history"
+  521  git push origin finalexam
+  522  gitshortlog
+  523  git shortlog
+  524  git log
+  525  git branch
+  526  git checkout finalexam
+  527  git log
+  528  gh repo clone https://github.com/Kimhajim/232736471-CAVE
+  529  cd 232736471-CAVE
+  530  git checkout -b finalexam
+  531  history > exam_log.txt
